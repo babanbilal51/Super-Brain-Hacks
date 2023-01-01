@@ -1,0 +1,76 @@
+#endscreen .when-video-ends {
+/* position end screen outside player area */
+  position: absolute;
+  left: -9999em;
+  top: 20%;
+  opacity: 0;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  text-align: center;
+  width: 100%;
+  -webkit-transition: opacity 0.5s;
+  -moz-transition: opacity 0.5s;
+  transition: opacity 0.5s;
+}
+/* position end screen outside player area */
+#endscreen .when-video-ends h3 {
+  font-size: 60px;
+  font-weight: bold;
+  margin-bottom: -10px;
+  color: #ccc;
+}
+#endscreen .when-video-ends h4 {
+  font-size: 25px;
+  color: #777;
+}
+#endscreen .when-video-ends .button {
+  background-color: #00a6bc;
+  padding: 20px 30px;
+  margin: 15px 0;
+  -webkit-border-radius: 60px;
+  -moz-border-radius: 60px;
+  border-radius: 60px;
+  font-size: 20px;
+  color: #eee;
+  cursor: pointer;
+  display: inline-block;
+  -webkit-transition: background-color 0.1s;
+  -moz-transition: background-color 0.1s;
+  transition: background-color 0.1s;
+}
+#endscreen .when-video-ends .button:hover {
+  background-color: #00afc6;
+}
+#endscreen .when-video-ends .button:active {
+  background-color: #009db2;
+}
+#endscreen .when-video-ends .fp-toggle {
+  display: block;
+  color: #777;
+  font-size: smaller;
+  cursor: pointer;
+}
+#endscreen .when-video-ends .fp-toggle:hover {
+  color: #444;
+}
+#endscreen {
+  background: url("/media/img/demos/black_big.jpg");
+}
+#endscreen.is-finished {
+  background: #333;
+  -webkit-transition: background-color 0.7s;
+  -moz-transition: background-color 0.7s;
+  transition: background-color 0.7s;
+}
+#endscreen.is-finished .fp-ui,
+#endscreen.is-finished .fp-engine {
+/* Flash-save way to hide the engine */
+  top: -9999em;
+}
+/* Flash-save way to hide the engine */
+#endscreen.is-finished .when-video-ends {
+/* position end screen inside player area */
+  left: 0;
+  opacity: 1;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+}
+/* position end screen inside player area */

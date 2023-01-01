@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+  <!--<![endif]-->
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Super Brain Hacks 2023</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="shortcut icon" href="images/favicon.png">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="css/icomoon.css">
+    <!-- Simple Line Icons -->
+    <link rel="stylesheet" href="css/simple-line-icons.css">
+    <!-- Owl Carousel -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+    <!-- include flowplayer -->
+    <script src="js/flowplayer.min.js"></script>
+    <link rel="stylesheet" href="skin/functional.css">
+    <!-- Modernizr JS -->
+    <script src="js/modernizr-2.6.2.min.js"></script>
+    <script src="js/aq.js"></script>
+    <!-- FOR IE9 below -->
+    <!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>	<![endif]-->
+  </head>
+  <body>
+    <header role="banner" id="fh5co-header"></header>
+    <div class="hbanner">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+            <center><img src="images/logo.png" class="img-responsive" style="padding-bottom:20px; padding-top:80px; width:400px;"></center>
+            <p class="txthd" style="padding-top:15px;">Discover How To Nurture
+              And Nourish Your Brain For Top Performance In Every Aspect Of Your
+              Life...</p>
+            <!--<p class="txtsub">...Even If You Have ZERO Online Experience...</p><!-- Begin of Digistore24 Trusted Badge Code -->
+            <script type="text/javascript" src="https://www.digistore24.com/trusted-badge/22878/4uPPwyCTlJrwN2x/salespage"></script><!-- End of Digistore24 Trusted Badge Code -->--&gt;
+            </div> </div>
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="col-lg-10 col-md-10 col-md-push-1">
+              <center>
+                <!-- the player -->
+                <div class="flowplayer fixed-controls">
+                  <!-- <div class="responsive-video"> -->
+                  <!-- Your Video URL Here -->&nbsp; <img src="images/bundle.PNG"
+                    style="width: 609px; height: 608px; margin-top: -49px;"><!-- <object data="salesvideourl"></object> -->
+                </div>
+              </center>
+            </div>
+          </div>
+          <!--<div class="col-lg-12 col-md-12">
+								<br/>					<center><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5GX45UEUHMCBJ"><input type="submit" class="btn rgstfrm rgstfrmfnt" value="Reserve Your Spot"></input></a></center>				</div>-->
+        </div>
+      </div>
+    </div>
+    <!-- Trigger the modal with a button -->
+    <div id="fh5co-our-services">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <div class="box animate-box"> <img src="images/step-by-step.png" style="padding-bottom:15px; max-width:128px;">
+              <h3>This works for ANYONE that follows the step-by-step guide to
+                improving Super Brain Hacks</h3>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="box animate-box"> <img src="images/skills.png" style="padding-bottom:15px; max-width:128px;">
+              <h3>You don’t need any special skill or background to get more out
+                of your brain</h3>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="box animate-box"> <img src="images/results.png" style="padding-bottom:15px; max-width:128px;">
+              <h3>You can begin seeing results within days...</h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="fh5co-letter" style="padding-bottom:50px">
+      <div class="container">
+        <div class="row animate-box" data-animate-effect="fadeIn">
+          <div class="col-md-12 text-left">
+            <p>Dear Friend,</p>
+            <p>Did you know that it's a proven fact that we humans don't fully
+              use our brains.</p>
+            <p>It's true.</p>
+            <p>Our minds are incredibly powerful, but we are all VERY far from
+              realizing our brain's maximum potential.</p>
+            <p>The things we are able to do and accomplish are remarkable, if
+              only we could access our entire brain...</p>
+            <p>So, <i>how do you unlock�</i> your brain's full potential</p>
+            <p>Until the past few years, it was thought to be impossible</p>
+            <p>But there is some good news</p>
+            <p>You CAN train your brain.</p>
+            <p>In fact...</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="fh5co-features" data-section="features">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 section-heading text-center">
+            <h2 class="animate-box" data-animate-effect="fadeIn">Your Brain Is
+              Like Any Other Muscle In Your Body...</h2>
+          </div>
+        </div>
+        <div class="row row-bottom-padded-lg">
+          <div class="col-md-12">
+            <div class="col-md-5 animate-box" data-animate-effect="fadeInLeft">
+              <img src="images/enhance.png" class="img-responsive"> </div>
+            <div class="col-md-7 col-md-push-1">
+              <p>...which means, you can mold it, shape it, and improve it</p>
+              <p>Unfortunately, most people just don't realize that this is
+                possible</p>
+              <p>Or maybe you think that improving your brain's performance will
+                be extremely time-consuming.</p>
+              <p>It's understandable to be concerned about your time.</p>
+              <p>After all, so many of us have so very little of it these days.</p>
+              <p>Our modern lives are stressful, and with daily work and other
+                obligations, most people struggle to even find the time to go to
+                the gym to train their physical bodies</p>
+              <p>...much less putting time into training your brain for peak
+                performance.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="fh5co-our-services">
+      <div class="container">
+        <div class="row row-bottom-padded-sm animate-box">
+          <div class="col-md-12 section-heading text-center btm-mrgn-0">
+            <h2 class="animate-box" data-animate-effect="fadeIn">But, Learning
+              To Improve Super Brain Hacks Is Actually Even More Important In
+              Many Ways Than Exercising Your Body...</h2>
+          </div>
+        </div>
+        <div class="col-md-12 animate-box" data-animate-effect="fadeIn">
+          <p>That's because, everything starts in your brain.</p>
+          <p>And when your brain is operating at the highest level possible, if
+            can improve EVERY single aspect of your entire life.</p>
+          <p>What's really exciting is that we're just starting to understand
+            just how important Super Brain Hacks really is.</p>
+          <p>Just a few years back, most people didn't even realize that they
+            had the opportunity to improve their brain's health.</p>
+          <p>But, science has proved that our brains continue to grow, develop,
+            and change throughout our lives</p>
+          <p>That means you can create new memories, learn new things, and new
+            brain cells are formed throughout your brain in a process called
+            neurogenesis.</p>
+          <p>This mean you have the opportunity to</p>
+        </div>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="box animate-box"> <img src="images/mold.png" style="padding-bottom:15px; max-width:150px;">
+              <h3>Mold your brain in any way that you want</h3>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="box animate-box"> <img src="images/increase.png" style="padding-bottom:15px; max-width:150px;">
+              <h3>Increase your intelligence</h3>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="box animate-box"> <img src="images/improve.png" style="padding-bottom:15px; max-width:150px;">
+              <h3>And live your life to the fullest and get the most possible
+                from your brain. To get there, what you need is an expert at
+                improving Super Brain Hacks to show you how to get results
+                quickly.</h3>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 animate-box" data-animate-effect="fadeIn">
+          <p>That's why I've created a step-by-step guide to nurturing and
+            nourishing your brain...</p>
+        </div>
+      </div>
+    </div>
+    <br>
+    <br>
+    <div id="fh5co-call-action-button">
+      <div class="container" style="padding-bottom:10px;">
+        <div class="row row-bottom-padded-lg">
+          <div class="col-md-12 section-heading btm-mrgn-0">
+            <h2 class="animate-box text-center btm-pdng-0" data-animate-effect="fadeIn"
+              style="color:#fff; padding-top:50px">Introducing:</h2>
+            <h2 class="animate-box text-center btm-pdng-0" data-animate-effect="fadeIn"
+              style="color:#fff; font-size:52px;">The Complete Guide To Super
+              Brain Hacks</h2>
+            <p style="color:#fff; font-size:52px;" data-animate-effect="fadeIn"
+              align="center"><img src="images/ebook.PNG" height="519" width="400"></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="fh5co-features" data-section="features">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 section-heading text-center">
+            <h2 class="animate-box" data-animate-effect="fadeIn">Here's A
+              Preview Of What You'll Discover Inside...</h2>
+          </div>
+        </div>
+        <div class="row row-bottom-padded-sm">
+          <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service animate-box"
+            data-animate-effect="fadeIn"> <img src="img/brain-works.png" style="width:50px;">
+            <div class="fh5co-desc">
+              <p>How your brain works and why it's easy for ANYONE to mold it
+                for improved performance</p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service animate-box"
+            data-animate-effect="fadeIn"> <img src="img/maximize.png" style="width:50px;">
+            <div class="fh5co-desc">
+              <p>The nature of intelligence and how to quickly maximize your
+                intelligence without spending weeks, months, or years in a
+                classroom or reading books there are simple hacks� you can take
+                advantage of right now</p>
+            </div>
+          </div>
+          <div class="clearfix visible-sm-block visible-xs-block"></div>
+          <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service animate-box"
+            data-animate-effect="fadeIn"> <img src="img/change.png" style="width:50px;">
+            <div class="fh5co-desc">
+              <p>How brain plasticity changes everything we once thought we knew
+                about the brain, and why the new modern age gives you a massive
+                advantage that virtually no one has ever had before</p>
+            </div>
+          </div>
+        </div>
+        <div class="row row-bottom-padded-sm">
+          <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service animate-box"
+            data-animate-effect="fadeIn"> <img src="img/food.png" style="width:50px;">
+            <div class="fh5co-desc">
+              <p>Why proper nutrition is crucial for optimum brain function, and
+                the EXACT foods you should be eating to get the most out of your
+                brain</p>
+            </div>
+          </div>
+          <div class="clearfix visible-sm-block visible-xs-block"></div>
+          <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service animate-box"
+            data-animate-effect="fadeIn"> <img src="img/lifestyle.png" style="width:50px;">
+            <div class="fh5co-desc">
+              <p>How to make small changes in your daily lifestyle to increase
+                intelligence and improve performance</p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service animate-box"
+            data-animate-effect="fadeIn"> <img src="img/focus.png" style="width:50px;">
+            <div class="fh5co-desc">
+              <p>How to increase focus and concentration almost instantly by
+                doing a few simple things that ANYONE can do if you struggle
+                with staying focused, completing work, or even taking tests,
+                this will be a godsend</p>
+            </div>
+          </div>
+        </div>
+        <div class="row row-bottom-padded-sm">
+          <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service animate-box"
+            data-animate-effect="fadeIn"> <img src="img/way.png" style="width:50px;">
+            <div class="fh5co-desc">
+              <p>The best way to train your body to ultimately train your mind
+                everything is interconnected, and the key is learning how to get
+                the best out of everything</p>
+            </div>
+          </div>
+          <div class="clearfix visible-sm-block visible-xs-block"></div>
+          <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service animate-box"
+            data-animate-effect="fadeIn"> <img src="img/performance.png" style="width:50px;">
+            <div class="fh5co-desc">
+              <p>How to legally hack� your mind and shortcut your way to better
+                brain performance with nootropics.</p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service animate-box"
+            data-animate-effect="fadeIn"> <img src="img/meditation.png" style="width:50px;">
+            <div class="fh5co-desc">
+              <p>The power of meditation and how you can get better performance
+                with a very simple meditation technique</p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service animate-box"
+            data-animate-effect="fadeIn"> <img src="img/more.png" style="width:50px;">
+            <div class="fh5co-desc">
+              <p style="padding-top:7px">Plus, a whole lot more!</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 section-heading text-center">
+            <div class="fh5co-desc">
+              <p>This is the easiest to follow, MOST COMPLETE course for
+                improving your Super Brain Hacks.</p>
+              <p>But don't take my word for it.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="fh5co-tour" data-section="tour" style="background:#fff">
+      <div class="container">
+        <div class="row row-bottom-padded-lg" style="padding-bottom: 3em;">
+          <div class="col-md-12 section-heading btm-mrgn-0">
+            <h2 class="animate-box text-center btm-pdng-0" data-animate-effect="fadeIn">Is
+              This For You?</h2>
+            <h3 class="animate-box text-center btm-pdng-0" data-animate-effect="fadeIn">If
+              you answer yes to any of the following, you need to get your hands
+              on this powerful, step-by-step guide</h3>
+          </div>
+        </div>
+        <div class="row row-bottom-padded-lg">
+          <div class="col-md-3 animate-box" data-animate-effect="fadeInLeft"> <img
+              src="images/brain-health.jpg" style="padding-bottom:15px; width:300px;">
+          </div>
+          <div class="col-md-8 col-md-push-2 animate-box" data-animate-effect="fadeInLeft">
+            <strong>
+              <p><img src="images/check.png" width="40px">&nbsp;&nbsp;&nbsp;You're
+                looking for a way to maximize your brain's performance</p>
+              <p><img src="images/check.png" width="40px">&nbsp;&nbsp;&nbsp;You
+                struggle with staying focused, concentration, doing repetitive
+                tasks, and you want to find a way to get better without meds</p>
+              <p><img src="images/check.png" width="40px">&nbsp;&nbsp;&nbsp;You
+                want to improve your intelligence and get smarter as quickly as
+                possible</p>
+              <p><img src="images/check.png" width="40px">&nbsp;&nbsp;&nbsp;You
+                like the idea of using nootropic to hack your performance but
+                you're not sure where to start</p>
+              <p><img src="images/check.png" width="40px">&nbsp;&nbsp;&nbsp;You
+                want to nurture and nourish your brain the right way to maximize
+                performance in every aspect of your life...</p>
+            </strong> </div>
+        </div>
+      </div>
+    </div>
+    <div id="fh5co-tour" data-section="tour" style="background:#fff">
+      <div class="container">
+        <div class="row row-bottom-padded-lg">
+          <div class="col-md-12 section-heading btm-mrgn-0">
+            <h2 class="animate-box text-center btm-pdng-0" data-animate-effect="fadeIn">
+              I'm Ready To Maximize My Super Brain Hacks And Performance</h2>
+          </div>
+        </div>
+        <div class="row row-bottom-padded-lg">
+          <div class="col-md-12 animate-box" data-animate-effect="fadeIn">
+            <p>If you were going to hire a Super Brain Hacks expert to show you
+              how to nourish and nurture your brain the right way, you could
+              easily end up investing hundreds of dollars</p>
+            <p>The good news is, you get the next best thing with this powerful,
+              step-by-step guide, and you won't have to invest hundreds of
+              dollars today.</p>
+            <p>Today, you can get INSTANT ACCESS for just...$12</p>
+            <h3 style="  margin: 0px; padding: 0px; font-weight: 400; color: rgb(109, 109, 109); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);"><b
+                style="font-weight: 700; box-sizing: border-box; color: rgb(45, 45, 45);">Our
+                Excellent Product comes with a special 60 Day 100% Money Back
+                Policy!</b></h3>
+            <p style="text-align: center;"></p>
+            <p align="center"><a href="#"><strong><strong> </strong></strong></a></p>
+            <h3 style=" text-align: center; background-color: #006600;"><a href="#"><strong><strong><span
+                      style="color: white;">TODAY PRICE IS - $12</span></strong></strong></a></h3>
+            <a href="#"><strong><strong> </strong></strong></a>
+            <p></p>
+            <p align="center"><a href="https://www.digistore24.com/product/477168"><img
+                  class="img-responsive" src="images/buy-button.png" style="margin-top: -26px;"
+                  height="154" width="634"></a></p>
+            <br>
+            <center>
+              <p>And it just keeps getting better</p>
+            </center>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="fh5co-tour" data-section="tour" style="background:#fff">
+      <div class="container">
+        <div class="row row-bottom-padded-lg">
+          <div class="col-md-12 section-heading btm-mrgn-0">
+            <h2 class="animate-box text-center btm-pdng-0" data-animate-effect="fadeIn">
+              When You Make The Wise Decision To Grab This Today, You'll Also
+              Get These Fast Action Bonuses</h2>
+          </div>
+        </div>
+        <div class="row row-bottom-padded-lg">
+          <div class="col-md-12">
+            <div class="col-md-5 animate-box" data-animate-effect="fadeInLeft" style="margin-top:60px;">
+              <img src="images/cheatsheet.png" class="img-responsive"> </div>
+            <div class="col-md-6 col-md-push-1">
+              <h3><strong>Fast Action Bonus #1 <br>
+                  <span style="color:#398b8a;">Super Brain Hacks Cheat Sheet</span></strong></h3>
+              <br>
+              <p style="color:red"><strong>Valued at $27<strong></strong></strong></p>
+              <strong><strong>
+                  <p>This cheat sheet is a handy checklist that makes it easy to
+                    get started and begin improving your Super Brain Hacks fast.</p>
+                  <p>It breaks up the entire guide into easy-to-follow steps so
+                    that you can make sure you have all the highlights of
+                    getting the most from your brain right at your fingertips.
+                    This makes it easy to track your progress and stay focused
+                    every step of the way.</p>
+                </strong></strong></div>
+            <strong><strong> </strong></strong></div>
+          <strong><strong> </strong></strong></div>
+        <strong><strong>
+            <div class="row row-bottom-padded-lg">
+              <div class="col-md-12">
+                <div class="col-md-5 col-md-push-6 animate-box" data-animate-effect="fadeInRight">
+                  <img src="images/mindmap.png" class="img-responsive"> </div>
+                <div class="col-md-6 col-md-pull-5">
+                  <h3><strong>Fast Action Bonus #2 - <br>
+                      <span style="color:#398b8a;">Super Brain Hacks Mind Map</span></strong></h3>
+                  <br>
+                  <p style="color:red"><strong>Valued at $17</strong></p>
+                  <p>Some people learn better by looking at a mind map. This
+                    mind map gives you an overview of everything covered inside
+                    the guide. You can also print it out for quick reference
+                    anytime you need it!</p>
+                </div>
+              </div>
+            </div>
+            <div class="row row-bottom-padded-lg">
+              <div class="col-md-12">
+                <div class="col-md-5 animate-box" data-animate-effect="fadeInLeft"
+                  style="margin-top:60px;"> <img src="images/resources.png" class="img-responsive">
+                </div>
+                <div class="col-md-6 col-md-push-1">
+                  <h3><strong>Fast Action Bonus #3 <br>
+                      <span style="color:#398b8a;">Super Brain Hacks Resource
+                        Guide</span></strong></h3>
+                  <br>
+                  <p style="color:red"><strong>Valued at $17</strong></p>
+                  <p>The Resource Guide gives you a quick point of reference to
+                    all of the resources mentioned throughout the guide.</p>
+                  <p>This makes it easy to plug-in and stick with improving your
+                    brain to get the best performance policy in every facet of
+                    your life.</p>
+                </div>
+              </div>
+            </div>
+            <div class="row row-bottom-padded-lg">
+              <div class="col-md-12">
+                <div class="col-md-5 col-md-push-6 animate-box" data-animate-effect="fadeInRight">
+                  &nbsp;</div>
+                <div class="col-md-6 col-md-pull-5"> </div>
+              </div>
+            </div>
+          </strong></strong></div>
+      <strong><strong> </strong></strong></div>
+    <strong><strong>
+        <div style="background-color: #232323; padding-top: 3%; padding-bottom: 2%;">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12 section-heading" style="color: #FFF">
+                <h2 class="animate-box text-center" data-animate-effect="fadeIn"
+                  style="color: #FFF"> Try The Guide To Super Brain Hacks On MY
+                  DIME<br>
+                  There's No Risk!</h2>
+                <p><img src="images/money-back-guarantee.png" style="margin-top:40px;"
+                    align="right" height="260" width="260"></p>
+                <p>There are a lot of people that claim to offer a solution to
+                  maximizing your Super Brain Hacks and improving your
+                  performance, but most of the stuff out there just doesn't work
+                  like they say.</p>
+                <p>Because of that, we understand if you're a little skeptical.</p>
+                <p>So, I'm going to make this REALLY easy for you today</p>
+                <p>I can keep telling you just how great my guide is, but you
+                  really need to go through it and see for yourself what's it
+                  all about to know if it's for you.</p>
+                <p>That's why I'm going to give you a FULL 60 days to decide if
+                  this for you</p>
+                <p>If for any reason, or no reason at all, you're not 100%
+                  satisfied with what's inside, simply send me an email, and
+                  I'll refund every penny of your tiny investment</p>
+                <p>No questions asked!</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="fh5co-tour" data-section="tour" style="background:#fff">
+          <div class="container">
+            <div class="row row-bottom-padded-lg">
+              <div class="col-md-12 section-heading">
+                <h3 style="  margin: 0px; padding: 0px; font-weight: 400; color: rgb(109, 109, 109); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);"><b
+                    style="font-weight: 700; box-sizing: border-box; color: rgb(45, 45, 45);">Our
+                    Excellent Product comes with a special 60 Day 100% Money
+                    Back Policy!</b></h3>
+                <h3 style="  margin: 0px; padding: 0px; font-weight: 400; color: rgb(109, 109, 109); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);"><b
+                    style="font-weight: 700; box-sizing: border-box; color: rgb(45, 45, 45);"></b></h3>
+                <h2 class="animate-box text-center" data-animate-effect="fadeIn"></h2>
+                <h3 style=" text-align: center; background-color: #006600;"><span
+                    style="color: white;">TODAY PRICE IS - $12</span></h3>
+              </div>
+              <div class="col-md-12 section-heading">
+                <p align="center"><a href="https://www.digistore24.com/product/477168"><img
+                      class="img-responsive" src="images/buy-button.png" style="margin-top: -51px;"
+                      height="154" width="634"></a></p>
+                <br>
+                <p>Thank you so much for taking the time to take a look at this
+                  extremely limited offer that has the potential to change your
+                  life forever.</p>
+                <p>I hope to see you on the inside!</p>
+                <p>[Qadeer Musaddaq]</p>
+                <p><strong>PS</strong>&nbsp; PS&nbsp; I've compiled some of the
+                  most frequently asked questions about improving your Super
+                  Brain Hacks quickly</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="fh5co-faq" class="faq">
+          <div class="container">
+            <div class="col-md-12 text-center section-heading">
+              <h2>Frequently Asked Questions</h2>
+            </div>
+            <div class="row" style="padding-bottom:60px;">
+              <div class="col-lg-6 col-md-6 col-sm-12">
+                <h5 style="font-size:20px; color:#000;"><strong><img src="images/q.png"
+                      style="margin-top:-5px;" height="25" width="25">&nbsp;&nbsp;What's
+                    this about?</strong></h5>
+                <br>
+                <p>This is about nourishing and nurturing your brain to maximize
+                  your performance in all aspect of your life.</p>
+                <br>
+                <h5 style="font-size:20px; color:#000;"><strong><img src="images/q.png"
+                      style="margin-top:-5px;" height="25" width="25">&nbsp;&nbsp;Who
+                    is this for?</strong></h5>
+                <br>
+                <p>If you answer yes to any of the following, you need to get
+                  your hands on this powerful, step-by-step guide</p>
+                <ul>
+                  <li>You're looking for a way to maximize your brain's
+                    performance</li>
+                  <li>You struggle with staying focused, concentration, doing
+                    repetitive tasks, and you want to find a way to get better
+                    without meds</li>
+                  <li>You want to improve your intelligence and get smarter as
+                    quickly as possible</li>
+                  <li>You like the idea of using nootropic to hack your
+                    performance but you're not sure where to start</li>
+                  <li>You want to nurture and nourish your brain the right way
+                    to maximize performance in every aspect of your life...</li>
+                </ul>
+                <br>
+                <h5 style="font-size:20px; color:#000;"><strong><img src="images/q.png"
+                      style="margin-top:-5px;" height="25" width="25">&nbsp;&nbsp;How
+                    long until I see results?</strong></h5>
+                <br>
+                <p>You can begin seeing initial results right away. </p>
+                <br>
+                <h5 style="font-size:20px; color:#000;"><strong><img src="images/q.png"
+                      style="margin-top:-5px;" height="25" width="25">&nbsp;&nbsp;Do
+                    I need to buy anything other than this guide?</strong></h5>
+                <br>
+                <p>That's the great thing about this. All you really need is
+                  this guide to see results.</p>
+                <br>
+              </div>
+              <div class="col-lg-6 col-md-6 col-sm-12">
+                <h5 style="font-size:20px; color:#000;"><strong><img src="images/q.png"
+                      style="margin-top:-5px;" height="25" width="25">&nbsp;&nbsp;How
+                    is this guide delivered?</strong></h5>
+                <br>
+                <p>You'll get instant access to a PDF version of this guide
+                  along with download links for the rest of the bonuses. There's
+                  no waiting. You can get started right away.</p>
+                <br>
+                <h5 style="font-size:20px; color:#000;"><strong><img src="images/q.png"
+                      style="margin-top:-5px;" height="25" width="25">&nbsp;&nbsp;How
+                    much?</strong></h5>
+                <br>
+                <p>Today price is $12 Only</p>
+                <br>
+                <h5 style="font-size:20px; color:#000;"><strong><img src="images/q.png"
+                      style="margin-top:-5px;" height="25" width="25">&nbsp;&nbsp;Is
+                    there a guarantee?</strong></h5>
+                <br>
+                <p>You bet. You get a full 60 days to make sure this is for you.
+                  If for any reason, or no reason at all, you're not 100%
+                  satisfied, simply send me an email, and I'll refund every
+                  penny of your tiny investment.</p>
+                <p>No questions asked!</p>
+                <br>
+                <h5 style="font-size:20px; color:#000;"><strong><img src="images/q.png"
+                      style="margin-top:-5px;" height="25" width="25">&nbsp;&nbsp;How
+                    do I get INSTANT ACCESS?</strong></h5>
+                <br>
+                <p>Click the button below now</p>
+                <br>
+              </div>
+              <div class="col-lg-12 col-md-12 col-sm-12">
+                <div style="text-align: center;">
+                  <h3 style="margin: 0px; padding: 0px; font-weight: 400; color: #6d6d6d; font-family: Arial,Helvetica,sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: rgba(204, 204, 204, 0.69);"><b
+                      style="font-weight: 700; box-sizing: border-box; color: rgb(45, 45, 45);">Our
+                      Excellent Product comes with a special 60 Day 100% Money
+                      Back Policy!</b></h3>
+                </div>
+                <div style="text-align: center;"><strong><strong>
+                      <h3 style=" text-align: center; background-color: #006600;"><span
+                          style="color: white;">TODAY PRICE IS - $12</span></h3>
+                    </strong></strong></div>
+                <center><a href="https://www.digistore24.com/product/477168"><img
+                      class="img-responsive" src="images/buy-button.png" alt=""
+                      height="149" width="583"></a></center>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="fh5co-faq" class="faq">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12 text-center section-heading">
+                <p class="ftr_text">Every effort has been made to accurately
+                  represent our product and it's potential. Any claims made of
+                  actual earnings or examples of actual results can be verified
+                  upon request. The testimonials and examples used are
+                  exceptional results, and don't apply to the average purchaser
+                  and are not intended to represent or guarantee that anyone
+                  will achieve the same or similar results. Each individuals
+                  success depends on his or her background, dedication, desire
+                  and motivation. As with any business endeavor, there is an
+                  inherent risk of loss of capital and there is no guarantee
+                  that you will earn any money. ***NOTICE*** This site is in no
+                  way endorsed by, related to, or in any other way affiliated
+                  with Google.com, YouTube.com or Facebook.com.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="background-color: #222; padding-top: 2%; padding-bottom: 1%;">
+          <div class="container">
+            <div class="row">
+              <div class="one-column">
+                <p class="white_color dcr" style=" font-size: 14px; color: #ffffff"
+                  align="center"><a href="privacy-policy.html" target="_blank">Privacy
+                    Policy</a> | <a href="disclaimer.html" target="_blank">Disclaimer</a>
+                  | <a href="terms-and-conditions.html" target="_blank">Terms
+                    and Conditions</a> | <a href="support.html" target="_blank">Support</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- jQuery -->
+        <script src="js/jquery.min.js"></script>
+        <!-- jQuery Easing -->
+        <script src="js/jquery.easing.1.3.js"></script>
+        <!-- Bootstrap -->
+        <script src="js/bootstrap.min.js"></script>
+        <!-- Waypoints -->
+        <script src="js/jquery.waypoints.min.js"></script>
+        <!-- Owl Carousel -->
+        <script src="js/owl.carousel.min.js"></script>
+        <!-- Main JS (Do not remove) -->
+        <script src="js/main.js"></script> </strong></strong>
+  </body>
+</html>
